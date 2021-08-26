@@ -1,0 +1,7 @@
+Ifrisin muncitor 1m 3000
+Martinel muncitor 1m 2800
+Popescu muncitor 2m 4500
+Ratonel muncitor 2m 4000
+Tudor muncitor 2m 4000
+Grigore muncitor 3m 3700
+Viorel muncitor 3m 3500
